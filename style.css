@@ -1,0 +1,64 @@
+#navbar {
+    background-color: black;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 10px;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.option:hover{
+    color: rgb(209, 149, 201);
+}
+
+#topPage {
+    display: flex;
+    padding: 45px;
+    background-color: rgb(64, 64, 116);
+}
+
+#topPage img {
+    width: 300px;
+    padding-left: 100px;
+}
+
+#name {
+    padding-left: 150px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+}
+
+#bio {
+    display: flex;
+}
+
+#bio img {
+    height: 300px;
+}
+
+#information {
+    text-align: center;
+    padding: 40px;
+}
+
+#interests-hobbies img{
+    height: 200px;
+}
+
+#interests-hobbies h2{
+    display: flex;
+    justify-content: center;
+}
+
+#row1 {
+    display: flex;
+    justify-content: center;
+}
+
+#row2 {
+    display: flex;
+    justify-content: center;
+}
