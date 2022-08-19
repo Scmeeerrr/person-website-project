@@ -1,1 +1,2 @@
 # person-website-project
+This personal website is rather basic at the moment, but this was my Week 3 All Star Code Milestone Project. It gives a general biography about me and my interests. However, in the future, I plan on updating this website even further with any achievements and professional connections. If this repository does NOT get updated, then I will probably have an updated repository for a NEW personal website with more skills I will learn in the upcoming future.
